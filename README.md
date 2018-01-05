@@ -5,6 +5,11 @@
 Retrieve regions with coverage above threshould between two different
 experiments
 
+**Requirements:**
+* python v2.7
+* pandas v0.20
+* numpy v1.13
+
 **usage:**
 >python CovDetect.py [-h] [-bp BASEPAIRS] [-stdv STANDEV] input
 
