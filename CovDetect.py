@@ -1,4 +1,4 @@
-#! /usr/local/bin/miniconda2/bin/python
+#! /usr/bin/python
 # Coverage detect version 1.0
 # This software was written by Ivan R. Wolf
 # Python modules required: Numpy, Pandas
